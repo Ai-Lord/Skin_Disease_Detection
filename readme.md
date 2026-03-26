@@ -33,13 +33,14 @@ Dataset used: HAM10000 (Human Against Machine with 10000 training images)
 
 ## 🚀 How to Run
 
-### 1. Clone the repository
-```bash
+# 1. Clone the repository
+
 git clone https://github.com/Ai-Lord/Skin_Disease_Detection.git
+
 cd skin-disease-detection
 
 ### 2. Download Dataset
-```bash
+
 https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification
 
 ### 3. Run Notebook
